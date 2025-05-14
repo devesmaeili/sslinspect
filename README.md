@@ -1,6 +1,6 @@
 # SSLInspect
 
-> Version: 1.0.0
+> Version: 1.0.1
 
 **SSLInspect** is a Python-based tool that retrieves and analyzes SSL/TLS certificate information from remote servers. It extracts metadata such as certificate validity, issuer, fingerprints, extensions, and supported ciphers.
 
@@ -22,7 +22,6 @@
 
 - Python 3.10+
 - [`cryptography`](https://pypi.org/project/cryptography/)
-- [`pydantic`](https://pypi.org/project/pydantic/)
 
 Install required packages:
 
